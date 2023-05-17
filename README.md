@@ -1,4 +1,4 @@
-# multi-class classification on Stack Overflow questions
+# Multi-class classification on Stack Overflow questions
 
 This project is a part of the "ML basics with Keras - Basic text classification" tutorial exercise.
 
